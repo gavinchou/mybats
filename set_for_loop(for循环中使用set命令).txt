@@ -1,0 +1,10 @@
+the "for" loop with variables deployed "set" statement there should not be brackets after "do"
+
+this is not right 
+for /f "tokens=*" %%G in ('dir /a /b *.merged') do (
+echo %%G>>TEMP.TXT
+set str=%%G
+)
+
+this si the correct one(and this is the official recommendation syntax)
+for /f "tokens=*" %%G in ('dir /a /b *.merged') do set str=%%G & echo %str%

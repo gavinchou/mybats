@@ -1,0 +1,142 @@
+ NetSh的相关操作
+一、添加IP地址及默认网关(是添加,要重设或更新原来IP的请看第三点) ： 
+
+netsh interface ip add address 
+
+用法: add address [name=]<string> [[addr=]IP address [mask=]IP subnet mask] 
+
+[[gateway=]IP address [gwmetric=]integer] 
+
+参数: 
+
+name - IP 接口名称。 
+
+addr - 要添加到此接口的 IP 地址。 
+
+mask - 指定 IP 地址的 IP 子网掩码。 
+
+gateway - 指定 IP 地址的默认网关。 
+
+gwmetric - 默认网关的跃点数。 
+
+注释: 向一个用静态IP地址配置的接口添加IP地址和 
+
+默认网关。 
+
+示例: 
+
+add address "Local Area Connection" 10.0.0.2 255.0.0.0 
+
+add address "Local Area Connection" gateway=10.0.0.3 gwmetric=2 
+
+第一个命令向本地连接接口添加一个静态IP地址 10.0.0.2 ，子网掩码 
+
+为255.0.0.0 。第二个命令向网关跃点数为2的接口添加IP地址 
+
+10.0.0.3 作为第二个默认网关。 
+
+我的实例: 
+
+(1)netsh interface ip add address "LocalConnection" 172.20.0.49 255.255.252.0 
+
+此命令设置LocalConnection的IP为172.20.0.49,子网掩码为255.255.252.0 
+
+(2) 
+C:\>netsh interface ip add address "LocalConnection" gateway=172.20.0.254 gwmetric=1 
+
+此命令设置 Localconnection 的默认网关为 172.20.0.254, 默认网关的跃点数为 1 
+
+二、添加DNS： 
+
+netsh interface ip add dns ? 
+
+用法: add dns [name=]<string> [addr=]<IP address> [[index=]integer] 
+
+参数: 
+
+标记 数值 
+
+name - 添加 DNS 服务器的接口的名称。 
+
+addr - 添加的 DNS 服务器的 IP 地址。 
+
+index - 为指定的 DNS 服务器地址 
+
+指定索引 ( 首选项 ) 。 
+
+说明: 静态添加新的 DNS 服务器 IP 地址或重新索引现有 DNS 服务器地址的列表以修改 DNS 服务器首选项。 
+
+例如: 
+
+add dns "Local Area Connection" 10.0.0.1 
+
+add dns "Local Area Connection" 10.0.0.3 index=2 
+
+我的实例： 
+
+netsh interface ip add dns "LocalConnection" 172.20.0.1 
+
+netsh interface ip add dns "LocalConnection" 202.96.128.68 index=2 
+
+三、设置IP地址、默认网关及DNS： 
+
+netsh interface IP set address local static 172.20.0.49 255.255.252.0 设置 IP 及子网掩码 
+
+netsh interface IP set address local static gateway=172.20.0.254 gwmetric=1 
+
+(set address name="LocalConnection" source=dhcp 此条表示从 dhcp 服务器得到 IP) 
+
+netsh interface IP set dns "LocalConnection" static 172.20.0.1 
+
+(set dns name="LocalConnection" source=dhcp) 
+
+四、综合例 
+
+netsh interface IP set address local static 172.20.0.49 255.255.252.0 
+
+netsh interface IP set address local static gateway=172.20.0.254 gwmetric=1 
+
+netsh interface IP set dns "LocalConnection" static 172.20.0.1 
+
+netsh interface ip add dns "LocalConnection" 202.96.128.68 index=2 
+
+以上命令做成批处理： 
+
+edit setIP.bat 
+
+netsh interface IP set address local static %2 255.255.252.0 
+
+netsh interface IP set address local static gateway=172.20.0.254 gwmetric=1 
+
+netsh interface IP set dns "%1" static 172.20.0.1 
+
+netsh interface ip add dns "%1" 202.96.128.68 index=2 
+
+setIP.bat 的命令用法是： 
+
+setIP 网络接口名 IP 地址 
+
+例如： 
+
+setip LocalConnection 172.20.0.49  
+
+Netsh 设置dns 
+
+开始>运行 输入cmd进入doc操作系统 
+
+1、输入命令 netsh 回车 
+
+2、输入命令 interface 回车 
+
+3、输入命令 ip 回车 
+
+4、设置dns set dns "本地连接" static 202.96.209.5 
+
+5、设置备用dns set add dns "本地连接" 202.96.209.133 
+
+注意："本地连接" 根据不同机器而不同。（本机 控制面板 网络连接 名称）202.96.209.5为上海电信的DNS服务器，其它地方的DNS服务器可以在网上搜索。 
+
+
+
+
+本文来自CSDN博客，转载请标明出处：http://blog.csdn.net/cui55/archive/2008/03/12/2172023.aspx

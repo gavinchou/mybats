@@ -1,0 +1,1 @@
+D:\Tools\Other_Tools\NOTEPAD++\NOTEPAD++.LNK %1

@@ -1,0 +1,5 @@
+任务栏中个性化问候信息
+[hkey_current_user\control panel\international]
+"sTimeFormat"="HH点mm分tttt" rem将时间格式换成上下午的形式
+"s1159"="hello" rem将 上午 换成 hello,即原来显示上下午的地方换成了自己想要的信息
+"s2359"="goodbye" rem 将 下午 换成goodbye

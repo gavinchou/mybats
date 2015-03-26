@@ -1,0 +1,43 @@
+bat如何利用vbs发声!(读中文)
+2008年05月16日 星期五 下午 06:00
+一:
+echo off
+mode con cols=58 lines=10
+title 读单词 （按C退出）
+:开始
+color 0a
+cls
+Set 内容=
+echo.
+echo.
+Set /p 内容= 请输入你想要阅读的单词: 
+If /I "%内容%"=="" goto 开始
+If /I "%内容%"=="exit" exit
+mshta vbscript:CreateObject("SAPI.SpVoice").Speak("%内容%")(Window.close)
+goto 开始
+
+二:判别是中文还是英文
+
+'设0(英文 Sam 男音)，1(英文 Mike 男音)，2(英文 Mary 女音)，3(中文 男音)
+
+'系统自带的0(英文 Sam 男音),如果想读1,2,3的语音,必须下载下面两个支持库
+
+'需下载Windows“简体中文语音支持库”，先安装“SpeechSDK51.exe”，然后再安装“SpeechSDK51LangPack.exe”！
+
+'http://download.microsoft.com/download/speechSDK/SDK/5.1/WXP/EN-US/SpeechSDK51.exe
+
+'http://download.microsoft.com/download/speechSDK/SDK/5.1/WXP/EN-US/SpeechSDK51LangPack.exe
+
+
+set voice = createobject("SAPI.SpVoice")
+
+Set voice.voice = voice.GetVoices.Item(3)
+
+voice.Speak "我爱你"
+
+Wscript.sleep 1000
+
+Set voice.voice = voice.GetVoices.Item(2)
+
+voice.Speak "I LOVE YOU"
+ 
