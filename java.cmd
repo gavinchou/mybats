@@ -32,9 +32,7 @@ if not exist "%nppTemp%" md "%nppTemp%"
 
 echo.
 rem set fileName=E:\\Material\\JAVA\\Source\\test\\test.java
-set fileName=%1
-set filaName=%fileName:"=%
-set filaName="%fileName%"
+set fileName="%~1"
 
 setlocal enabledelayedexpansion
 for /f "tokens=* delims=^" %%a in ('echo %fileName%') do (
