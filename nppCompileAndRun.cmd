@@ -23,6 +23,7 @@ set fileFullPathNoQuote=%~dpnx1
 set fileName="%~n1"
 set fileNameWithExt="%~nx1"
 set fileNameNoQuote=%~n1
+set fileFullNameNoQuote=%~nx1
 set fileExtension=%~x1
 set filePath="%~dp1"
 set filePathNoquote=%~dp1
@@ -162,21 +163,21 @@ REM :label_php
   REM REM echo !parent!
   REM REM pause
   REM ff.lnk localhost:8090/!parent!/!fileNameWithExt!
-
+  
   for /f "tokens=1,* delims=www" %%a in ('echo !str!') do (
     set parent=%%b
   )
   if not defined parent (
-    echo path is not correct, make sure php file is under %appdoc%/www
-    REM goto end
+    echo path is not correct, make sure php file is under %appdoc%\www
+    goto end
   )
   set parent=!parent:\=/!
-  REM start "firefox" "ff.lnk localhost:8090/!parent!/!fileNameNoQuote!!fileExtension!"
   for /f "tokens=* delims=" %%a in ('sed -n -r "s/^^\s*Listen\s+([0-9]+)/\1/p" "D:\Tools\Apache\Apache24\conf\httpd.conf"') do (
-    echo %%a
-    set /p port=%%a
+    REM echo %%a
+    set port=%%a
   )
-  !browser! localhost:!port!!parent!!fileNameWithExt!
+  REM !browser! localhost:!port!!parent!!fileNameWithExt!
+  !browser! http://localhost:!port!!parent!!fileFullNameNoQuote!
   goto end
 )
 
