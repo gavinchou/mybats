@@ -24,8 +24,8 @@ call Sync_Data3.1 "e:\pictures" "h:\pictures" 1 y
 call Sync_Data3.1 "e:\material" "h:\material" 1 y
 echo.
 echo done!
-choice /t 100 /d y /m "suspend the computer^?"
-if %errorlevel% euq 1 (
+choice /t 100 /d y /m "suspend the computer?"
+if %errorlevel% equ 1 (
 	start %windir%\standby.lnk
 )
 pause
