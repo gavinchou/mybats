@@ -81,5 +81,5 @@ echo echo            *                   All rights reserved                  *
 echo echo            **********************************************************
 echo cd /d "%%~dp0"
 echo rem setlocal enabledelayedexpansion
-echo pause)|clip
+echo pause) | sed -nr "s/ $//p" | clip
 
