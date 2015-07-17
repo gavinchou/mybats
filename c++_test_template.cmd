@@ -28,9 +28,9 @@ echo,using namespace std^;
 echo,
 echo int main^^^(int argc^, char** argv^^^)
 echo,^{
-echo,	
-echo,	
-echo,	return 0^;
+echo,  
+echo,  
+echo,  return 0^;
 echo,^}
 echo,
 echo,^#endif ^/^/ %1
@@ -41,7 +41,7 @@ exit
 call "./get_datetime.cmd" %0
 set datetime=
 for /f "tokens=* delims=" %%a in ('reg query hkcu\bat /v "tmp" ^| sed -n -e "3s/\(\s*\S\+\s\+\)\{2\}\(.\+\)/\2/p"') do (
-	set datetime=%%a
+  set datetime=%%a
 )
 
 (echo,^^#ifdef %1
@@ -51,11 +51,10 @@ echo,^^#include ^^^<iostream^^^>
 echo,
 echo,using namespace std^^;
 echo,
-echo int main^^^(int argc^^, char** argv^^^)
-echo,^^{
-echo,	cout ^^^<^^^< testDescription ^^^<^^^< endl;
-echo,	
-echo,	return 0^^;
+echo int main^^^(int argc^^, char** argv^^^) ^^{
+echo,  cout ^^^<^^^< testDescription ^^^<^^^< endl;
+echo,  
+echo,  return 0^^;
 echo,^^}
 echo,
 echo,^^#endif ^^/^^/ %1
