@@ -1,0 +1,1140 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="classstudents_export_20121218.files/filelist.xml">
+<link rel=Edit-Time-Data href="classstudents_export_20121218.files/editdata.mso">
+<link rel=OLE-Object-Data href="classstudents_export_20121218.files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>lock</o:LastAuthor>
+  <o:LastSaved>2012-12-18T08:07:22Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:常规;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	text-align:center;
+	border:.5pt solid black;
+	white-space:normal;}
+.xl25
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	border:.5pt solid black;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	text-align:center;
+	border:.5pt solid black;
+	white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl29
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl30
+	{mso-style-parent:style0;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:.5pt solid black;
+	white-space:normal;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>classstudents_export_20121218</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>312</x:DefaultRowHeight>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>110</x:ActiveRow>
+       <x:ActiveCol>5</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>7464</x:WindowHeight>
+  <x:WindowWidth>16740</x:WindowWidth>
+  <x:WindowTopX>288</x:WindowTopX>
+  <x:WindowTopY>36</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=620 style='border-collapse:
+ collapse;table-layout:fixed;width:464pt'>
+ <col width=127 style='mso-width-source:userset;mso-width-alt:4070;width:95pt'>
+ <col width=197 style='mso-width-source:userset;mso-width-alt:6297;width:148pt'>
+ <col width=110 style='mso-width-source:userset;mso-width-alt:3507;width:82pt'>
+ <col width=59 style='mso-width-source:userset;mso-width-alt:1894;width:44pt'>
+ <col width=127 style='mso-width-source:userset;mso-width-alt:4070;width:95pt'>
+ <tr height=21 style='mso-height-source:userset;height:15.6pt'>
+  <td colspan=5 height=21 class=xl27 width=620 style='border-right:.5pt solid black;
+  height:15.6pt;width:464pt'>自适应信号处理2012级学术型学位硕士1班上课查询名单</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl25 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>学院</td>
+  <td class=xl25 width=197 style='border-top:none;border-left:none;width:148pt'>专业</td>
+  <td class=xl25 width=110 style='border-top:none;border-left:none;width:82pt'>学号</td>
+  <td class=xl25 width=59 style='border-top:none;border-left:none;width:44pt'>学生</td>
+  <td class=xl25 width=127 style='border-top:none;border-left:none;width:95pt'>课程名称</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电路与系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220107917</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>卢俊平</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108471</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>余辉</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009920</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>王艳</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109218</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>邹晓艺</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009463</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>高静</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信息与通信工程[直博生]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201210101703</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>王恩翔</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009982</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>欧晓文</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009579</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>张秉兆</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108822</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>李勇</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009722</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>吴丽菲</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009951</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>王凯旭</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108730</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>陈博恒</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电路与系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220107900</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>周飞</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108495</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>林爽</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108457</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>卿娟</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109225</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>翁俊武</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108815</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>刘学</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009418</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>李鉴鸿</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电路与系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220107962</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>林冰垠</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009647</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>曹龙海</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108266</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>王晓明</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009432</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>林炳辉</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009968</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>钟鹏东</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009609</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>陈晓彬</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009340</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>叶剑杰</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009784</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>佘燕玲</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009692</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>刘沛杰</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009913</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>何建煌</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108921</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>杨洋</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108747</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>黄志明</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109294</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>钟辉强</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109102</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>方杰</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108754</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>刘雯雯</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109157</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>宋小潞</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108976</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>陈斌</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009388</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>陈旭升</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009944</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>邓晓锋</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108938</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>刘树强</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108303</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>梁念春</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108914</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>秦超</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109041</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>黄德龙</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009821</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>陈文科</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009449</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>陈健</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009319</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>钟俊洪</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108648</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>杨清红</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009807</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>罗菲</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109188</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>庞冠钦</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108433</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>林冬霞</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109119</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>高永振</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108341</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>田坤</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009937</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>徐舫</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009401</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>葛进波</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108662</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>李咏梅</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>集成电路工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221010131</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>黎章宇</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109232</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>庄蓁蓁</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108594</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>朱润情</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108716</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>李哲</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108907</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>欧阳亚</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009654</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>王道文</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009531</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>高海滔</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108679</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>饶静</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009814</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>罗欢</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009524</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>王婷</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108228</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>胡少东</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电路与系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220107979</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>张坤</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009838</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>曾拉娜</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009876</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>王杰耀</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108419</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>董飞宏</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109195</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>徐宝</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108587</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>曾帆光</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009517</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>李志杰</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009500</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>洪晓</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009456</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>熊杨超</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108396</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>胡晋玉</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108990</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>贾紫千</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109003</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>蒋智文</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108426</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>邓忠</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109140</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>王玉龙</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009623</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>豆王华</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009494</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>伍仁广</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108327</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>胡建树</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009555</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>彭攀</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108952</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>蔡仁钦</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108440</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>周灵通</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108860</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>黄德华</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109201</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>陈东杰</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109171</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>仝雪珂</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108600</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>冯松佳</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信息与通信工程[直博生]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201210101673</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>林晓帆</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108402</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>汪森</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009425</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>张榕彬</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009975</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>阳序仁</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108761</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>张璇</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108778</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>李苏梅</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电路与系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220107955</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>张田力</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108655</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>宁小娟</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109249</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>邱福浩</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009487</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>吕宗霖</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电路与系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220107887</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>尹佩佩</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108501</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>孟祥旭</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108389</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>姚远</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108310</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>郑哲青</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电路与系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220107986</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>何灼彬</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220109300</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>张文婷</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108945</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>钟林</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108297</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>林奇勇</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108969</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>何文涛</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009760</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>张楠</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108839</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>邓宇珊</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009753</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>罗伟生</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>电子与通信工程[全日制]</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201221009777</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>苏义超</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108723</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>卢璐</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108334</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>陈卫安</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>通信与信息系统</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108235</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>康亚冰</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl24 width=127 style='height:15.6pt;border-top:none;
+  width:95pt'>电子与信息学院</td>
+  <td class=xl24 width=197 style='border-top:none;border-left:none;width:148pt'>信号与信息处理</td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>201220108983</td>
+  <td class=xl24 width=59 style='border-top:none;border-left:none;width:44pt'>李其力</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td height=21 class=xl30 width=127 style='height:15.6pt;width:95pt'
+  x:str="电子与信息学院  ">电子与信息学院<span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></td>
+  <td class=xl26 width=197 style='border-top:none;border-left:none;width:148pt'
+  x:str="信号与信息处理 ">信号与信息处理<span style='mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=xl26 width=110 style='border-top:none;border-left:none;width:82pt'>200931411061</td>
+  <td class=xl30 width=59 style='border-left:none;width:44pt'>雍龙生</td>
+  <td class=xl24 width=127 style='border-top:none;border-left:none;width:95pt'>自适应信号处理</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=127 style='width:95pt'></td>
+  <td width=197 style='width:148pt'></td>
+  <td width=110 style='width:82pt'></td>
+  <td width=59 style='width:44pt'></td>
+  <td width=127 style='width:95pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

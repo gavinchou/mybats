@@ -1,0 +1,145 @@
+----------------------------------------------------------------------------
+                             I'm Yours - Jason Mraz
+----------------------------------------------------------------------------
+Tabbed by: Anton Petersson 1 jan-07 updated: 15 okt-08
+Email:antonpetersson1@hotmail.com
+
+Tuning:EADGBe
+
+This is the tab for the first version, not the one that was released 2008
+
+To do the"clicking"sound: gently lift your fingers from the fretboard of the guitar but
+keep your finger in the position of the chord. Use use right palm to mute the strings. 
+should sound kind of reggea (use a plectrum to
+get more "clicking")
+
+this is an example of how to play the chords.
+
+y= gently lift your fingers and strum downwards (clicking sound)
+x= gently lift your fungers and strum upwards (clicking sound)
+
+    B                                               |*switch chord*
+e|-----x--y--x-----x--y--x-----x--y--x-----x--y--x--|
+B|-----x--y--x-----x--y--x-----x--y--x-----x--y--x--|
+G|--8--x--y--x--8--x--y--x--8--x--y--x--8--x--y--x--|
+D|--9--x--y--x--9--x--y--x--9--x--y--x--9--x--y--x--|
+A|--9--x--y--x--9--x--y--x--9--x--y--x--9--x--y--x--|
+E|--7--x--y--x--7--x--y--x--7--x--y--x--7--x--y--x--|
+
+
+Chords that used in most of the song
+
+B=     F# =       G#m=       E=       *Fdim=     Ebm=
+e|---|    e|----|   e|----|   e|----|  e|----|   e|----|
+B|---|    B|-11-|   B|-12-|   B|----|  B|----|   B|----|
+G|-8-|    G|-11-|   G|-13-|   G|-13-|  G|-16-|   G|-11-|
+D|-9-|    D|-11-|   D|-13-|   D|-14-|  D|-15-|   D|-13-|
+A|-9-|    A|-9--|   A|-11-|   A|-14-|  A|-14-|   A|-13-|
+E|-7-|    E|----|   E|----|   E|-12-|  E|-13-|   E|-11-|
+
+*I think it's called Fdim(no click-sound on this one)
+
+Of course, you don't have to play this clicking sound just play the chords if you find 
+hard to play it this way.
+
+Intro:
+
+
+B-F#-G#m-E x2
+
+this is what the other guitar plays:
+e|-----------------------------------------|
+B|-----------------------------------------|
+G|-11s13-11---11s13-11--11s13--------------|
+D|--9s11-9-----9s11-----------13--13s14-9~-|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+e|-----------------------------------------|
+B|-----------------------------------------|
+G|-11s13-11---11s13-11--11s13--------------|
+D|--9s11-9-----9s11-----------13--13-13s14-|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+     B
+Well you done done me and you bet I felt it
+  F#
+I tried to be chill but you're so hot that I melted
+  G#m
+I fell right through the cracks
+            E
+and now I'm trying to get back
+           B
+Before the cool done run out I'll be giving it my bestest
+F#
+Nothing's going to stop me but divine intervention
+  G#m                           E
+I reckon it's again my turn to win some or learn some
+
+B             F#             G#m
+I won't hesitate no more, no more
+          E
+It cannot wait, I'm yours
+
+B-F#-G#m-E
+
+Verse2 *same chords*
+Well open up your mind and see like me
+Open up your plans and damn you're free
+Look into your heart and you'll find love love love
+Listen to the music of the moment maybe sing with me
+A l¨¢ peaceful melodies
+
+*until:*
+G#m                                      E                    Fdim
+     It's your God-forsaken right to be loved love loved love loved
+
+*same chords*
+So I won't hesitate no more, no more
+It cannot wait I'm sure
+There's no need to complicate
+Our time is short
+This is our fate, I'm yours
+
+*Now he starts humming *
+Same click-sound
+
+   B         B/A#      G#m      F#        E                                 Fdim
+e|--------------------------------------------------------------------------------------|
+B|------------------------------------------9-x-y-x-9-x-y-x-9-x-y-x-9-x-y-x-12-12-12-12-|
+G|--8-x-y-8---8-x-y-8---4-x-y-4---3-x-y-3---9-x-y-x-9-x-y-x-9-x-y-x-9-x-y-x-10-10-10-10-|
+D|--9-x-y-9---9-x-y-9---6-x-y-6---4-x-y-4---9-x-y-x-9-x-y-x-9-x-y-x-9-x-y-x-9--9--9--9--|
+A|--9-x-y-9---9-x-y-9---6-x-y-6---4-x-y-4--7--x-y-x-7-x-y-x-7-x-y-x-7-x-y-x-8--8--8--8--|
+E|-7--x-y-7--6--x-y-6--4--x-y-4--2--x-y-2-----------------------------------------------|
+
+x 2
+
+
+*From here on it's B-F#-G#m-E until the end of the song*
+
+Lyrics:
+
+I've been spending way too long checking my tongue in the mirror
+And bending over backwards just to try to see it clearer
+But my breath fogged up the glass
+And so I drew a new face and I laughed
+I guess what I'm saying is there ain't no better reason
+To rid yourself of vanity and just go with the seasons
+It's what we aim to do
+Our name is our virtue
+
+I won't hesitate no more, no more
+It cannot wait I'm sure
+There's no need to complicate
+Our time is short
+This is our fate, I'm yours
+
+Well open up your mind and see like me.
+Open up your plans and damn your free.
+I look into your heart and you'll find the sky is yours.
+So please dont please dont please dont theres no need to complicate.
+Cause our time is short.
+This is this is this is our fait.
+
+Im yours...
