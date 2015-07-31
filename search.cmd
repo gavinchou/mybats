@@ -18,67 +18,92 @@ echo            **********************************************************
 cd /d %~dp0 
 
 setlocal enabledelayedexpansion 
-set what=%1
-set what=!what: =+!
+REM echo %1
+set what=
+set searchEngine=
+
+if "%4" equ "" (
+  set what=%~1
+  set what=!what: =+!
+REM   echo %1 !what!
+  goto begin_search
+)
+
+:get_search_string
+if "%4" neq "" (
+  set what=!what!+%1
+  shift
+  goto get_search_string
+)
+set what=!what!+%1
+set what=!what:~1,256!
+echo !what!
+
+:begin_search
+set searchEngine=%~3
+
+REM echo !searchEngine!
+REM echo !what!
+REM pause
 
 :lowercase
-set str=%3
-if defined str (
-	for %%a in (aA bB cC dD eE fF gG hH iI jJ kK lL mM nN oO pP qQ rR sS tT uU vV wW xX yY zZ) do (
-		set ch=%%a
-		call set str=%%str:!ch:~1,1!=!ch:~0,1!%%
-	)
-	set "str=!str:"=!"
-	echo,!str!
+if defined searchEngine (
+  for %%a in (aA bB cC dD eE fF gG hH iI jJ kK lL mM nN oO pP qQ rR sS tT uU vV wW xX yY zZ) do (
+    set ch=%%a
+    call set searchEngine=%%searchEngine:!ch:~1,1!=!ch:~0,1!%%
+  )
+  REM set "searchEngine=!searchEngine:"=!"
+  echo,!searchEngine!
 )
 
-if "!str!" equ "google" (
-	set "str=https://www.google.com/search?q=!what!" 
-	echo !str!
-	start !str!
+
+if "!searchEngine!" equ "google" (
+  set searchEngine=https://www.google.com/search?q=!what!
+  echo !searchEngine!
+  start !searchEngine!
 ) 
 
-if "!str!" equ "baidu" (
-	set "str=http://www.baidu.com/s?wd=!what!"
-	echo !str!
-	start !str!
+if "!searchEngine!" equ "baidu" (
+  set "searchEngine=http://www.baidu.com/s?wd=!what!"
+  echo !searchEngine!
+  start !searchEngine!
 )
 
-if "!str!" equ "taobao" (
-	set "str=http://s.taobao.com/search?q=!what!"
-	echo !str!
-	start !str!
+if "!searchEngine!" equ "taobao" (
+  set "searchEngine=http://s.taobao.com/search?q=!what!"
+  echo !searchEngine!
+  start !searchEngine!
 )
 
-if "!str!" equ "bing" (
-	set "str=http://www.bing.com/search?q=!what!"
-	echo !str!
-	start !str!
+if "!searchEngine!" equ "bing" (
+  set "searchEngine=http://www.bing.com/search?q=!what!"
+  echo !searchEngine!
+  start !searchEngine!
 )
 
-if "!str!" equ "wikipedia" (
-	set "str=http://en.wikipedia.org/wiki/!what!"
-	echo !str!
-	start !str!
+if "!searchEngine!" equ "wikipedia" (
+  set "searchEngine=http://en.wikipedia.org/wiki/!what!"
+  echo !searchEngine!
+  start !searchEngine!
 )
 
-if "!str!" equ "google translate" (
-	set "str=http://translate.google.com/?hl=en#en/zh-CN/!what!"
-	echo !str!
-	start !str!
+if "!searchEngine!" equ "google translate" (
+  set "searchEngine=http://translate.google.com/?hl=en#en/zh-CN/!what!"
+  echo !searchEngine!
+  start !searchEngine!
 )
 
-if "!str!" equ "google_translate" (
-	set "str=http://translate.google.com/?hl=en#en/zh-CN/!what!"
-	echo !str!
-	start !str!
+if "!searchEngine!" equ "google_translate" (
+  set "searchEngine=http://translate.google.com/?hl=en#en/zh-CN/!what!"
+  echo !searchEngine!
+  start !searchEngine!
 )
 
 rem default search engine
-if "!str!" equ "" (
-	set "str=http://www.baidu.com/s?wd=!what!"
-	echo !str!
-	start !str!
+if "!searchEngine!" equ "" (
+  set "searchEngine=http://www.baidu.com/s?wd=!what!"
+  echo !searchEngine!
+  start !searchEngine!
 )
 
 endlocal
